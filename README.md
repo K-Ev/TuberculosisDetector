@@ -8,3 +8,8 @@ https://lhncbc.nlm.nih.gov/LHC-publications/pubs/TuberculosisChestXrayImageDataS
 Config file contains path of datasets to use for training and testing. 
 
 Requires sklearn to be installed
+
+after specifying path of datasets, just run program like 
+```bash
+python3 TuberculosisDetector.py
+```
